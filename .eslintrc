@@ -9,5 +9,8 @@
         "ecmaFeatures": {
           "experimentalObjectRestSpread": true
       }
+    },
+    "rules": {
+        "linebreak-style": 0
     }
 }
